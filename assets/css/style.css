@@ -170,7 +170,6 @@ article {
   background: var(--eerie-black-2);
   border: 1px solid var(--jet);
   border-radius: 20px;
-  width: 200px;
   padding: 15px;
   box-shadow: var(--shadow-1);
   z-index: 1;
@@ -1332,6 +1331,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .sidebar {
     max-height: 180px;
     margin-bottom: 30px;
+    width: 300px;
   }
 
   .sidebar.active { max-height: 584px; }
