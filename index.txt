@@ -2,9 +2,9 @@ Romain Thomas - Personal website
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Romain Thomas
+Romain Thomas
+Head of Research Software Engineering
 
 Show Contacts
 
