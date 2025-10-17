@@ -316,7 +316,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 112px;
+  max-height: 312px;
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -1813,7 +1813,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .main-content {
     min-width: 75%;
-    width: 95%;
+    width: 75%;
     margin: 0;
   }
 
