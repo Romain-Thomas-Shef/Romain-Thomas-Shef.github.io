@@ -261,7 +261,7 @@ defaults:
   # _running
   - scope:
       path: ""
-      type: running
+      type: talks
     values:
       layout: talk
       author_profile: true
