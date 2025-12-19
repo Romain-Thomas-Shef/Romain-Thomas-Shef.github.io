@@ -221,15 +221,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  running:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  software:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/ 
+  science:
+    output: true
+    permalink: /:collection/:path/ 
   talks:
     output: true
     permalink: /:collection/:path/
@@ -255,23 +258,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _running
   - scope:
       path: ""
-      type: teaching
+      type: running
     values:
-      layout: single
+      layout: talk
       author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
+      share: false
       comments: true
   # _talks
   - scope:
@@ -281,6 +275,25 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _science
+  - scope:
+      path: ""
+      type: science
+    values:
+      layout: science
+      author_profile: true
+      share: true
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: science
+      author_profile: true
+      share: true
+
+
+
 
 
 # Sass/SCSS
