@@ -1,7 +1,7 @@
 ---
 title: "SainteLyon 2025"
 collection: running
-type: "Ultra"
+type: "UltraMarathon"
 permalink: /running/2025-saintelyon
 venue: "Saint Etienne, France"
 date: 2025-11-30

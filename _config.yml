@@ -224,9 +224,6 @@ collections:
   running:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   software:
     output: true
     permalink: /:collection/:path/ 
@@ -261,7 +258,7 @@ defaults:
   # _running
   - scope:
       path: ""
-      type: talks
+      type: running
     values:
       layout: talk
       author_profile: true

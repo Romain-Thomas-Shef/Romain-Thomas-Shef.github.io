@@ -1,7 +1,7 @@
 ---
 title: "Chester50"
 collection: running
-type: "Ultra"
+type: "UltraMarathon"
 permalink: /running/2025-chester50
 venue: "Chester"
 date: 2025-03-15
