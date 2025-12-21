@@ -1,20 +1,16 @@
 ---
-title: "SainteLyon 2025"
+title: "Asics SainteLyon 2025"
 collection: running
 type: "UltraMarathon"
+class: "80km"
+objective: "Goal"
 permalink: /running/2025-saintelyon
-venue: "Saint Etienne, France"
 date: 2025-11-30
 location: "Saint Etienne, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Here we are! Last race of the year, and by far my favorite! What not to like, in my hometown (Saint-Etienne, France; so a good chance to see the family!) and a start in the middle of the night!   
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
+This is a test
