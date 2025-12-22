@@ -32,11 +32,11 @@ Work experience
 ----
 <font color="orange" style="font-size:25px">2020 - 2023: Staff Astronomer / Project Manager at the European Southern Observatory, Santiago, Chile </font>
 
-As staff astronomer, the distribution of work was the following: 70% Observatory duties at the Very Large Telescope
+As staff astronomer, the distribution of work was the following: 70% Observatory duties at the Very Large Telescope and 30% of science time.
 * <font color="lime">Observatory work</font>
   * Creator, lead developer and team lead of the [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full) project.
    * Instrument scientist of the [VISIR](https://www.eso.org/sci/facilities/paranal/instruments/visir.html) instrument
-   * Operation of the VLT UT1 and UT2 telescopes
+   * Operation of the VLT UT1 and UT2 telescopes,
 
 * <font color="lime"> Supervision and teaching</font>
   * *Internship supervisor*: Javiera Moreno (SCUBA project, Universidad Federico Santa Maria, Santiago, Chile

@@ -221,7 +221,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  running:
+  runs:
     output: true
     permalink: /:collection/:path/
   software:
@@ -233,7 +233,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -280,16 +279,14 @@ defaults:
       author_profile: true
       share: true
 
-  # _running
+  # _runs
   - scope:
       path: ""
-      type: runnings
+      type: runs
     values:
       layout: running
       author_profile: true
       share: false
-
-
 
 # Sass/SCSS
 sass:
