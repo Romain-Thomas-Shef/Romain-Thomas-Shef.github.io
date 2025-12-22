@@ -23,7 +23,7 @@ repository               : "https://github.com/Romain-Thomas-Shef/Romain-Thomas-
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile3.png"
   name             : "Romain Thomas"
   pronouns         : # example: "she/her"  
   bio              : "Astronomer, turned RSE, turned manager; Long distance runner"
