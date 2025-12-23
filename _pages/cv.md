@@ -12,17 +12,18 @@ redirect_from:
 Work experience
 ====
 
-<font color="orange" style="font-size:25px">2023 - Present: Head of Research Software Engineering, University of Sheffield, UK</font>
+<font color="orange" style="font-size:25px">2023 - Present: Head of Research Software Engineering [RSE], University of Sheffield, UK</font>
 
-* GitHub University
-* Duties includes: Updates and improvements to template
+* <font color="lime"> Main Role</font>
+As head of RSE my role is to ensure the long term stability of the team and its member.
+
 * <font color="lime"> Publication and Contributions</font>
-  * tst
+  * [*Thomas & Dammer*](https://joss.theoj.org/papers/10.21105/joss.08144), STON: SofTware for petrOgraphic visualisatioN. Journal of Open Source Software, 10(115), 8144, 
 
 * <font color="lime">Other activities</font>
-  * Sponsorship co-chair for RSECon25 (Nov 24 - April 25)
-  * Programme co-chair for RSECon25 (May 25 - Sept 25), hosted by the University of Warwick, UK
   * Programme co-chair for RSECon26 (Sept 25 - present), hosted by the University of Sheffield, UK
+  * Programme co-chair for [RSECon25](https://rsecon25.society-rse.org/) (May 25 - Sept 25), hosted by the University of Warwick, UK
+  * Sponsorship co-chair for [RSECon25](https://rsecon25.society-rse.org/) (Nov 24 - April 25)
   * Editor for the Journal of Open Source Software (October 25 - present)
 
 * <font color="lime">Awards</font>
@@ -34,9 +35,10 @@ Work experience
 
 As staff astronomer, the distribution of work was the following: 70% Observatory duties at the Very Large Telescope and 30% of science time.
 * <font color="lime">Observatory work</font>
-  * Creator, lead developer and team lead of the [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full) project.
-   * Instrument scientist of the [VISIR](https://www.eso.org/sci/facilities/paranal/instruments/visir.html) instrument
-   * Operation of the VLT UT1 and UT2 telescopes,
+  * Team lead of the [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full) project.
+   * Head of the VISIR [VISIR](https://www.eso.org/sci/facilities/paranal/instruments/visir.html) instrument team.
+   * Deputy head of the [X-Shooter](https://www.eso.org/sci/facilities/paranal/instruments/xshooter.html) instrument team.
+   * Operations of the VLT UT1 and UT2 telescopes,
 
 * <font color="lime"> Supervision and teaching</font>
   * *Internship supervisor*: Javiera Moreno (SCUBA project, Universidad Federico Santa Maria, Santiago, Chile
@@ -59,16 +61,19 @@ ESO, Santiago, Chile. Member of the Local Organizing Committee
 Fellow at the European Southern Observatory have 50% of their time dedicated to science and 50% of their time dedicated to observatory duties
 
 * <font color="lime">Observatory work</font>
-   * test 
+   * Operation of the UT2 telescope
+   * Instrument fellow for [X-shooter](https://www.eso.org/sci/facilities/paranal/instruments/xshooter.html) and [KMOS](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/vlt-instr/kmos/).  
+   * Creation of the SCUBA software, data quality control tool for all instruments at the Paranal. 
 
 * <font color="lime"> Publication and Contributions</font>
    * test
 
 * <font color="lime"> Supervision and teaching</font>
   * *Master Internship Co-Supervisor*: Francis Tang (ATACAMA project), ESO, Santiago, Chile
+  * *High-School Internship*: Elisa Bornscheuer, ESO, Santiago, Chile
 
 * <font color="lime">Other activities</font>
-  * *PRINT: Python foR dummIes iN quaranTine* (ESO remote python bootcamp during COVID-19 pandemic), ESO, Santiago, Chile. Main organizer (30+ participants), multiple talks.
+  * *PRINT: Python foR dummIes iN quaranTine* (ESO remote python bootcamp during COVID-19 pandemic, >30 participants), Chair and presenter, ESO, Santiago, Chile.
   * *ESOpy3.0* : A workshop about Python for Astronomy at ESO (>30 participants), Chair, Santiago, Chile
   * The La Silla Observatory - from the inauguration to the future, ESO, La Serena, Chile. Member of the Local Organising Committee
   * *ESOpy2.0* : A workshop about Python for Astronomy at ESO (>30 participants), Chair, Santiago, Chile
