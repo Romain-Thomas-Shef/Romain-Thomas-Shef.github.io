@@ -24,6 +24,8 @@ As head of RSE my role is to ensure the long term stability of the team and its 
   * [*Thomas, R., & Shephard, N.*](https://zenodo.org/records/17968231), Running a local RSE call for proposals. RSE Conference 2025 (RSECon25), Warwick, UK. Zenodo. https://doi.org/10.5281/zenodo.17968231
   * [*Thomas, R.; Smith, A.; Brown, W.*](https://doi.org/10.15131/shef.data.29179034.v1) (2025). Publish your Software! An introduction to the Journal of Open Source Software (JOSS). The University of Sheffield. Media. https://doi.org/10.15131/shef.data.29179034.v1
   * [*Thomas, R.; Campbell, R.; Adams, J.; O'Neill, K.*](https://doi.org/10.15131/shef.data.27652128.v1) (2024). FAIR2 for Research Software training programme: Software Management plan, licences and dissemination. The University of Sheffield. Media. https://doi.org/10.15131/shef.data.27652128.v1
+  * [*Thomas, R.; James, T.*](https://doi.org/10.15131/shef.data.27283239.v1) (2024). Better software for Better research: Introduction to the FAIR2 for Research Software training programme. The University of Sheffield. Media. https://doi.org/10.15131/shef.data.27283239.v1
+  * [*Wilby, D.; Whittle, S.; Thomas, R.*](https://doi.org/10.15131/shef.data.24756393.v1) (2023). Open Research Conversations x Lunchbytes session: Making research software more visible and reusable: Open Source Software and FAIR4RS. The University of Sheffield. Media. https://doi.org/10.15131/shef.data.24756393.v1
 
 * <font color="lime">Other activities</font>
   * Programme co-chair for RSECon26 (Sept 25 - present), hosted by the University of Sheffield, UK
