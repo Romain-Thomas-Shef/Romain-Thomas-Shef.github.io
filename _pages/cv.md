@@ -26,7 +26,7 @@ As head of RSE my role is to ensure the long term stability of the team and its 
   * Sponsorship co-chair for [RSECon25](https://rsecon25.society-rse.org/) (Nov 24 - April 25)
   * Editor for the Journal of Open Source Software (October 25 - present)
 
-* <font color="lime">Awards</font>
+* <font color="lime">Others</font>
   *  *Finalist of the 2025 Rising star award, RSE Society, UK.* This national award goes to an individual who is at an early career stage, or has only recently started doing RSE work, but who has already made an outstanding contribution to their team, project or institution.
   *  *RSECon26 host city*, Won the hosting of the RSECon26 conference for the University of Sheffield. 
 
