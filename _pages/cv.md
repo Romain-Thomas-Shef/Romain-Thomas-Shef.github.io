@@ -17,8 +17,13 @@ Work experience
 * <font color="lime"> Main Role</font>
 As head of RSE my role is to ensure the long term stability of the team and its member.
 
-* <font color="lime"> Publication and Contributions</font>
+* <font color="lime"> Publications & Contributions</font>
   * [*Thomas & Dammer*](https://joss.theoj.org/papers/10.21105/joss.08144), STON: SofTware for petrOgraphic visualisatioN. Journal of Open Source Software, 10(115), 8144, 
+  * [*Thomas, R. & James, R.*](https://doi.org/10.15131/shef.data.30375439.v1), Better software for better research: Introduction to the FAIR² for research software training programme, FAIR programme at the University of Sheffield, 2025, https://doi.org/10.15131/shef.data.30375439.v1 
+  * [*James, T., & Thomas, R.*](https://doi.org/10.5281/zenodo.17967513) (2025). FAIR2 for research software: developing a FAIR (Findable, Accessible, Interoperable and Reusable) and reproducible research software training programme (1.0.0). RSE Conference 2025 (RSECon25), Warwick, UK. Zenodo. https://doi.org/10.5281/zenodo.17967513
+  * [*Thomas, R., & Shephard, N.*](https://zenodo.org/records/17968231), Running a local RSE call for proposals. RSE Conference 2025 (RSECon25), Warwick, UK. Zenodo. https://doi.org/10.5281/zenodo.17968231
+  * [*Thomas, R.; Smith, A.; Brown, W.*](https://doi.org/10.15131/shef.data.29179034.v1) (2025). Publish your Software! An introduction to the Journal of Open Source Software (JOSS). The University of Sheffield. Media. https://doi.org/10.15131/shef.data.29179034.v1
+  * [*Thomas, R.; Campbell, R.; Adams, J.; O'Neill, K.*](https://doi.org/10.15131/shef.data.27652128.v1) (2024). FAIR2 for Research Software training programme: Software Management plan, licences and dissemination. The University of Sheffield. Media. https://doi.org/10.15131/shef.data.27652128.v1
 
 * <font color="lime">Other activities</font>
   * Programme co-chair for RSECon26 (Sept 25 - present), hosted by the University of Sheffield, UK
@@ -40,7 +45,7 @@ As staff astronomer, the distribution of work was the following: 70% Observatory
    * Deputy head of the [X-Shooter](https://www.eso.org/sci/facilities/paranal/instruments/xshooter.html) instrument team.
    * Operations of the VLT UT1 and UT2 telescopes,
 
-* <font color="lime"> Supervision and teaching</font>
+* <font color="lime"> Supervision &  teaching</font>
   * *Internship supervisor*: Javiera Moreno (SCUBA project, Universidad Federico Santa Maria, Santiago, Chile
   * *Internship supervisor*: Joaquin Hernandez (VISIR/SCUBA project, returning student), Pontificia Universidad Católica de Chile, Santiago, Chile
   * *ESO lecture serie*: Galaxy deep surveys, ESO chile, Santiago, Chile
@@ -48,7 +53,7 @@ As staff astronomer, the distribution of work was the following: 70% Observatory
   * *Internship supervisor*: Joaquin Hernandez (SCUBA project), Pontificia Universidad Católica de Chile, Santiago, Chile
   * *Invited lecture*: From galaxy observations to galaxy evolution (PhD level), Universidad Andres Bello, Santiago, Chile
 
-* <font color="lime"> Publication and Contributions</font>
+* <font color="lime"> Publications & Contributions</font>
     * test
 
 * <font color="lime">Other activities</font>
@@ -63,16 +68,17 @@ Fellow at the European Southern Observatory have 50% of their time dedicated to 
 * <font color="lime">Observatory work</font>
    * Operation of the UT2 telescope
    * Instrument fellow for [X-shooter](https://www.eso.org/sci/facilities/paranal/instruments/xshooter.html) and [KMOS](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/vlt-instr/kmos/).  
-   * Creation of the SCUBA software, data quality control tool for all instruments at the Paranal. 
+   * Creation of the SCUBA software, data quality control tool for all instruments at the Paranal Observatory.  
 
-* <font color="lime"> Publication and Contributions</font>
+* <font color="lime"> Publications & Contributions</font>
    * test
 
-* <font color="lime"> Supervision and teaching</font>
+* <font color="lime"> Supervision & teaching</font>
   * *Master Internship Co-Supervisor*: Francis Tang (ATACAMA project), ESO, Santiago, Chile
   * *High-School Internship*: Elisa Bornscheuer, ESO, Santiago, Chile
 
 * <font color="lime">Other activities</font>
+  * Elected Representative of the ESO fellows at the ESO headquarters, Santiago, Chile. 
   * *PRINT: Python foR dummIes iN quaranTine* (ESO remote python bootcamp during COVID-19 pandemic, >30 participants), Chair and presenter, ESO, Santiago, Chile.
   * *ESOpy3.0* : A workshop about Python for Astronomy at ESO (>30 participants), Chair, Santiago, Chile
   * The La Silla Observatory - from the inauguration to the future, ESO, La Serena, Chile. Member of the Local Organising Committee
@@ -81,7 +87,14 @@ Fellow at the European Southern Observatory have 50% of their time dedicated to 
 
 2015-2017: Post-Doctoral researcher at the University of Valparaiso, Chile
 ----
-  * GitHub University
+
+* <font color="lime"> Main Role</font>
+As a post-doc, I focused on my research on distant galaxies using the VVDS, VUDS and VANDELS survey; three galaxy survey of high redshift galaxies. 
+
+* <font color="lime">Other activities</font>
+  * Representative of the postdoc of department of Astronomy, Universidad de Valparaiso, Chile. 
+  * Invited lecture at the Master of Astronomy of the Universidad de Valparaiso. Introduction to SED-fitting. 
+ 
 
 Education
 =====
