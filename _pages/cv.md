@@ -15,7 +15,10 @@ Work experience
 <font color="orange" style="font-size:25px">2023 - Present: Head of Research Software Engineering [RSE], University of Sheffield, UK</font>
 
 * <font color="lime"> Main Role</font>
-As head of RSE my role is to ensure the long term stability of the team and its member.
+As Head of Research Software Engineering, my role is to ensure the long-term sustainability and stability of the team and its members. I led the definition and oversee the implementation of the strategic direction of the RSE team in alignment with institutional research goals and Open Research principles. 
+I am responsible for overseeing the team’s performance, financial management, and governance. A key part of my role is to lead engagement and advocacy for the RSE role both within the university and externally. 
+This helps me support and develop the RSE community to enhance research quality and promote recognition of diverse research contributions.
+
 
 * <font color="lime"> Publications & Contributions</font>
   * [*Thomas & Dammer*](https://joss.theoj.org/papers/10.21105/joss.08144), STON: SofTware for petrOgraphic visualisatioN. Journal of Open Source Software, 10(115), 8144, 
