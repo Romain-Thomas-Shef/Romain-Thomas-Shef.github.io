@@ -7,11 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
+
+<style>
+p.double {border-style: double; border-color: yellow; border-width: 3px; width:30%; padding: 2px}
+</style>
+
 This is where I post all the races I do! It goes from an easy 5k to 100k+. I have (more or less painful) memories from all of them :D 
 
 <br>
 
 <img src="../images/running/stats/calendar_2026.png" alt="Running calendar for the current year" class="center">
+
+<br>
+
+<p class="double"> &nbsp;Race (sub21k): 5 </p>
+<p class="double"> &nbsp;Half Marathon: 12</p>
+<p class="double"> &nbsp;Marathon: 7</p>
+<p class="double"> &nbsp;Ultra-Marathon (sub 100k): 10</p>
+<p class="double"> &nbsp;Ultra-Marathon (over 100k): 1</p>
 
 {% for post in site.runs reversed %}
   {% include archive-single-run.html %}
