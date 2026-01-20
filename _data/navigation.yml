@@ -23,5 +23,5 @@ main:
   - title: "Runs"
     url: /runs/    
 
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
