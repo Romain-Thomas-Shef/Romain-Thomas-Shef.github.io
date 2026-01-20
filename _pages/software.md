@@ -16,8 +16,6 @@ author_profile: true
 {% include base_path %}
 
 
-**In construction**
-
 <br>
 
 Since I started coding during my PhD I wrote multiple pieces of codes. Some more useful than others and some better written than others. It is only during my postdoc time that I started to think that since 95% of my time in research is passed coding something I might as well learn how to write it correctly and how to release in the wild.
