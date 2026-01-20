@@ -50,11 +50,4 @@ Finished 65/372 so it was a good race!
 </figure>
 
 
-
-
-
-
-
-
-
 {% include image-gallery.html folder="../images/running/2026_Sherwood" %}
