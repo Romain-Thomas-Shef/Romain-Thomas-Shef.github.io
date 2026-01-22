@@ -9,12 +9,16 @@ author_profile: true
 
 
 <style>
-p.double {border-style: double; border-color: yellow; border-width: 3px; width:30%; padding: 2px}
+p.double {border-style: double; border-color: yellow; border-width: 3px; width:100%; padding: 2px}
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+   text-align: center;
 }
+
+div.container {
+  display:inline-block;
+
+}
+
 </style>
 
 This is where I post all the races I do! It goes from an easy 5k to 100k+. I have (more or less painful) memories from all of them :D 
@@ -25,12 +29,40 @@ This is where I post all the races I do! It goes from an easy 5k to 100k+. I hav
 
 <br>
 
-<img src="../images/running/stats/Compare_distance_year.png" alt="Year - to - year running distance comparison" class="center" width="500">
-<p class="double"> &nbsp;Races (sub21k): 6 </p>
-<p class="double"> &nbsp;Races (Half Marathon to 30k): 14</p>
-<p class="double"> &nbsp;Marathons: 7</p>
-<p class="double"> &nbsp;Ultra-Marathons (sub 100k): 10</p>
-<p class="double"> &nbsp;Ultra-Marathons (over 100k): 1</p>
+<div class="center">
+    <div class="container">
+      <img src="../images/running/stats/Compare_distance_year.png" width="400"/>
+    </div>
+    <div class="container">
+      <img src="../images/running/stats/runtype_2026.png" width="360"/>
+    </div>
+</div>
+
+<br>
+
+<!-- <img src="../images/running/stats/Compare_distance_year.png" alt="Year - to - year running distance comparison" class="center" width="500"> -->
+
+<div class="center">
+    <div class="container">
+      <p class="double"> &nbsp;Races (sub21k): 6 </p>
+    </div>
+
+    <div class="container">
+      <p class="double"> &nbsp;Marathons: 7</p> 
+    </div>
+    <div class="container">
+      <p class="double"> &nbsp;Races (Half Marathon to 30k): 14</p>
+    </div>
+</div>
+
+<div class="center">
+    <div class="container">
+      <p class="double"> &nbsp;Ultra-Marathons (sub 100k): 10</p>
+    </div>
+    <div class="container">
+      <p class="double"> &nbsp;Ultra-Marathons (over 100k): 1</p>
+    </div>
+</div>
 
 {% for post in site.runs reversed %}
   {% include archive-single-run.html %}
