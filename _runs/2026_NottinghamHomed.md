@@ -1,5 +1,5 @@
 ---
-title: "Nottingham Halme Half Marathon"
+title: "Nottingham Holme Half Marathon"
 collection: running
 type: "Half Marathon"
 class: "21k"
