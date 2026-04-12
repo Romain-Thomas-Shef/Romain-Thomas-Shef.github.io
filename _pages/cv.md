@@ -45,7 +45,7 @@ This helps me support and develop the RSE community to enhance research quality 
 
 As staff astronomer, the distribution of work was the following: 70% Observatory duties at the Very Large Telescope and 30% of science time.
 * <font color="lime">Observatory work</font>
-  * Team lead of the [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full) project.
+  * Team lead and lead software engineer of the [SCUBA](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11449/2560271/The-SCUBA-project---First-layer-of-quality-control/10.1117/12.2560271.full) project.
    * Head of the VISIR [VISIR](https://www.eso.org/sci/facilities/paranal/instruments/visir.html) instrument team.
    * Deputy head of the [X-Shooter](https://www.eso.org/sci/facilities/paranal/instruments/xshooter.html) instrument team.
    * Operations of the VLT UT1 and UT2 telescopes,
@@ -75,9 +75,6 @@ Fellow at the European Southern Observatory have 50% of their time dedicated to 
    * Instrument fellow for [X-shooter](https://www.eso.org/sci/facilities/paranal/instruments/xshooter.html) and [KMOS](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/vlt-instr/kmos/).  
    * Creation of the SCUBA software, data quality control tool for all instruments at the Paranal Observatory.  
 
-* <font color="lime"> Publications & Contributions</font>
-   * test
-
 * <font color="lime"> Supervision & teaching</font>
   * *Master Internship Co-Supervisor*: Francis Tang (ATACAMA project), ESO, Santiago, Chile
   * *High-School Internship*: Elisa Bornscheuer, ESO, Santiago, Chile
@@ -89,9 +86,11 @@ Fellow at the European Southern Observatory have 50% of their time dedicated to 
   * The La Silla Observatory - from the inauguration to the future, ESO, La Serena, Chile. Member of the Local Organising Committee
   * *ESOpy2.0* : A workshop about Python for Astronomy at ESO (>30 participants), Chair, Santiago, Chile
 
-
-2015-2017: Post-Doctoral researcher at the University of Valparaiso, Chile
 ----
+<font color="orange" style="font-size:25px">2015-2017: Post-Doctoral researcher at the University of Valparaiso, Chile </font>
+
+
+
 
 * <font color="lime"> Main Role</font>
 As a post-doc, I focused on my research on distant galaxies using the VVDS, VUDS and VANDELS survey; three galaxy survey of high redshift galaxies. 

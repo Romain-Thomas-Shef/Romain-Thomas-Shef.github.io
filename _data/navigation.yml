@@ -11,11 +11,11 @@ main:
   - title: "Software"
     url: /software/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Science"
-    url: /science/
+#  - title: "Science"
+#    url: /science/
 
   - title: "CV"
     url: /cv/
