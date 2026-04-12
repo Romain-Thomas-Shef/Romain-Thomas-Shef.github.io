@@ -1181,3 +1181,14 @@ date,runtype,distance,duration,pace,elevation,calories,hr,eventtype
 2026-03-14,treadmill_running,12.01,3794.65,5.31,0,596.0,139.0,uncategorized
 2026-03-15,trail_running,31.94,10899.36,5.7,454.0,2408.0,148.0,race
 2026-03-18,treadmill_running,6.01,1976.04,5.5,0,431.0,154.0,uncategorized
+2026-03-21,ultra_run,120.1,56228.0,8.81,1866.0,7648.0,124.0,race
+2026-03-25,running,6.06,1946.61,5.38,16.0,457.0,144.0,uncategorized
+2026-03-27,treadmill_running,6.09,1972.15,5.43,0,458.0,150.0,uncategorized
+2026-03-29,running,21.3,6604.85,5.17,337.0,1648.0,156.0,race
+2026-03-29,running,3.06,1043.15,5.69,12.0,224.0,132.0,uncategorized
+2026-03-31,treadmill_running,6.01,1971.3,5.49,0,361.0,136.0,uncategorized
+2026-04-01,treadmill_running,5.01,1613.28,5.4,0,313.0,136.0,uncategorized
+2026-04-03,ultra_run,80.32,32029.41,6.95,378.0,6116.0,132.0,race
+2026-04-06,running,11.81,4006.36,5.67,84.0,833.0,127.0,uncategorized
+2026-04-09,treadmill_running,7.03,2243.85,5.36,0,448.0,143.0,uncategorized
+2026-04-10,treadmill_running,8.07,2571.47,5.33,0,548.0,145.0,uncategorized
