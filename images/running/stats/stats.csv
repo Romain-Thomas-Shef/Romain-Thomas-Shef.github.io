@@ -1193,3 +1193,4 @@ date,runtype,distance,duration,pace,elevation,calories,hr,eventtype
 2026-04-09,treadmill_running,7.03,2243.85,5.36,0,448.0,143.0,uncategorized
 2026-04-10,treadmill_running,8.07,2571.47,5.33,0,548.0,145.0,uncategorized
 2026-04-12,running,11.57,3792.89,5.49,66.0,844.0,133.0,uncategorized
+2026-04-14,running,14.6,4397.12,5.04,165.0,1083.0,150.0,uncategorized
