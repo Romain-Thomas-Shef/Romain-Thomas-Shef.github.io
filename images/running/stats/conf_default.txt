@@ -27,7 +27,6 @@ credit_x = 0.75
 credit_y = 0.15
 
 
-
 [Pace_plot]
 colors = green,deeppink,darkorange,cyan
 signs = *,s,o,^
@@ -39,11 +38,24 @@ credit_x = 0.75
 credit_y = 0.13
 
 [Runtype_plot]
-rt_pad = -60
+rt_pad = -100
+
+##Would appreciate if that stays, so GRUNT gets more visibility 
+credit = true 
+credit_x = 0.10
+credit_y = 0.80
+
+[Pacedistance_plot]
+signs = *,s,o,^
+colormap = gnuplot
+
 ##Would appreciate if that stays, so GRUNT gets more visibility 
 credit = true 
 credit_x = 0.70
-credit_y = 0.80
+credit_y = 0.13
+
+
+
 
 [Output]
 directory =  /Users/romainthomas/github/Romain-Thomas-Shef.github.io/images/running/stats
