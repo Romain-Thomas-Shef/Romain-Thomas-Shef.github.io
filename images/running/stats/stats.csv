@@ -826,7 +826,7 @@ date,runtype,distance,duration,pace,elevation,calories,hr,eventtype
 2024-09-21,trail_running,8.48,2859.08,5.71,154.67,504.0,134.0,uncategorized
 2024-09-22,trail_running,24.36,8458.21,5.82,272.38,1508.0,140.0,uncategorized
 2024-09-24,trail_running,9.66,3348.87,5.81,149.07,590.0,136.0,uncategorized
-2024-09-28,trail_running,51.54,23485.71,8.52,1598.15,4223.0,140.0,race
+2024-09-28,ultra_run,51.54,23485.71,8.52,1598.15,4223.0,140.0,race
 2024-10-01,trail_running,11.36,3895.7,5.77,215.85,764.0,139.0,uncategorized
 2024-10-03,trail_running,11.21,3770.21,5.63,198.09,771.0,151.0,uncategorized
 2024-10-07,running,10.01,2971.58,4.99,22.97,699.0,138.0,uncategorized
@@ -1197,3 +1197,4 @@ date,runtype,distance,duration,pace,elevation,calories,hr,eventtype
 2026-04-15,running,2.52,782.04,5.2,20.0,196.0,153.0,uncategorized
 2026-04-16,running,9.4,3158.32,5.63,185.0,710.0,142.0,uncategorized
 2026-04-17,running,2.54,673.53,4.45,22.0,179.0,160.0,uncategorized
+2026-04-19,running,42.68,14459.99,5.67,128.0,3246.0,148.0,race

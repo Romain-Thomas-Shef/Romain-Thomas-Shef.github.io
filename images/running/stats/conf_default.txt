@@ -2,7 +2,6 @@
 yearsback = 1
 runtype = ultra_run,treadmill_running,trail_running,running
 
-
 [Plot_general]
 dpi = 200
 text = 228,223,202
@@ -10,7 +9,6 @@ background = 37,42,52
 
 [Plot_calendar]
 colormap = gnuplot
-
 ##Would appreciate if that stays, so GRUNT gets more visibility 
 credit = true 
 credit_x = 0.90
@@ -20,7 +18,6 @@ credit_y = 0.15
 ####Compare distance plot
 compare_colors = white,gold,yellow,deeppink,darkorange,cyan,lime,red
 compare_signs = .,.,.,.,.,.,.,.,-.
-
 ##Would appreciate if that stays, so GRUNT gets more visibility 
 credit = true 
 credit_x = 0.75
@@ -31,7 +28,6 @@ credit_y = 0.15
 colors = green,deeppink,darkorange,cyan
 signs = *,s,o,^
 fit_colors = lime,red,orange,deepskyblue
-
 ##Would appreciate if that stays, so GRUNT gets more visibility 
 credit = true 
 credit_x = 0.75
@@ -39,23 +35,18 @@ credit_y = 0.13
 
 [Runtype_plot]
 rt_pad = -100
-
 ##Would appreciate if that stays, so GRUNT gets more visibility 
 credit = true 
-credit_x = 0.10
-credit_y = 0.80
+credit_x = 0.15
+credit_y = 0.90
 
 [Pacedistance_plot]
 signs = *,s,o,^
 colormap = gnuplot
-
 ##Would appreciate if that stays, so GRUNT gets more visibility 
 credit = true 
-credit_x = 0.70
+credit_x = 0.65
 credit_y = 0.13
 
-
-
-
 [Output]
-directory =  /Users/romainthomas/github/Romain-Thomas-Shef.github.io/images/running/stats
+directory = /Users/romainthomas/Documents/Git/Romain-Thomas-Shef.github.io/images/running/
