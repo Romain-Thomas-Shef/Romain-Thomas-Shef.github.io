@@ -31,7 +31,7 @@ My name is Romain Thomas, I am the <a href='https://rse.shef.ac.uk/'> head of Re
 
 Before coming to the UK I was an Astronomer at the Very Large Telescope in Chile. Where I started as a fellow in 2017 and continued as staff astronomer from 2020. While there I have been doing mostly observatory work, even though I should have done more science. I have operated UT1, UT2 telescope and controlled more than 6 Paranal instruments both in service and visitor modes. At the end of my fellowship I created the SCUBA framework, a software that controls the quality of data aquired at Paranal.
 <br>
-<center><img src="./assets/img/pltfme.jpg" alt="isolated" width="800"/></center>
+<center><img src="./assets/img/pltfme.jpg" alt="isolated" style="max-width: 100%; height: auto;"></center>
 <br>
 
 This project started as a proof of concept for a single telescope and then extended, during my time as staff astronomer, to all instruments of the VLT. I have led the team developing it (involving 4 main developers and all instrument scientists) and then passed the torch over to Juan Carlos Olivares, who is leading the team since then.
