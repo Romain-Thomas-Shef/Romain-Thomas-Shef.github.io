@@ -13,7 +13,7 @@ While doing research on galaxy I wanted to look at average galaxy populations. F
 The following animation 
 <center>
     <figure class="center">
-        <img src="../../assets/img/project/specstack/animation.gif" alt="Specstack animation" style="width: 665px">
+        <img src="../../assets/img/project/specstack/animation.gif" alt="Specstack animation" style="max-width: 100%; height: auto;">
         <figcaption color=white>Animation showing the averge spectrum for different number of galaxy in the sample.</figcaption>
     </figure>
 </center>
