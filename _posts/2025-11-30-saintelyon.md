@@ -3,6 +3,7 @@ layout: post
 title: Saintelyon 2025
 date: 2025-11-30 12:00:00
 description: Last ultra of the year
+thumbnail: assets/img/runs/2025saintelyon/STL4.png
 tags: ultra 50miles objective
 images:
   slider: true

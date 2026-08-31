@@ -4,6 +4,7 @@ title: Worksop halloween Half Marathon 2025
 date: 2025-10-26 12:00:00
 description: Halloween is here!
 tags: HM preparation
+thumbnail: assets/img/runs/2025halloween/map.png
 images:
   slider: true
 ---
