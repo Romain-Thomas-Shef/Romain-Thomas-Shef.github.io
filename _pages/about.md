@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='https://rse.shef.ac.uk/contact/romain-thomas/'>Head of Research Software Engineering</a>, University of Sheffield 
+subtitle: Head of Research Software Engineering, University of Sheffield 
 
 profile:
   align: right
@@ -21,10 +21,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 
