@@ -1,20 +1,22 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Running
 nav: true
-nav_order: 1
+nav_order: 4
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 4
   sort_field: date
   sort_reverse: true
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
 ---
+
+
 
 <div class="post">
 
@@ -44,6 +46,9 @@ pagination:
       {% if site.display_categories.size > 0 and site.display_tags.size > 0 %}
         <p>&bull;</p>
       {% endif %}
+<br>
+I have made a small running statistic code from Garmin data. Have a look <a href="{{ '/blog/running2026/' | relative_url }}">here</a>.
+
       {% for category in site.display_categories %}
         <li>
           <i class="fa-solid fa-tag fa-sm"></i> <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">{{ category }}</a>
@@ -55,6 +60,7 @@ pagination:
     </ul>
   </div>
   {% endif %}
+
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}

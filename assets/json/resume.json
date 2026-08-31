@@ -113,7 +113,7 @@
       "summary": ""
     }
   ],
-  "certificates": [
+  "tests": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -133,7 +133,7 @@
       "icon": "fa-solid fa-envelope"
     }
   ],
-  "publications": [
+  "tests2": [
     {
       "name": "Zur Elektrodynamik bewegter Körper",
       "publisher": "Annalen der Physik",

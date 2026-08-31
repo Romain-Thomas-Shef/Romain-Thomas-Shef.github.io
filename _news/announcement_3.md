@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-07-15 12:00:00-0400
 inline: true
 related_posts: false
 ---
+Our project ERIS (Evaluating RSE Impact and Scope) has been funded by DiscouRSE. [More info](https://discourse-network.github.io/projects/1-53-project-ERIS/).
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:

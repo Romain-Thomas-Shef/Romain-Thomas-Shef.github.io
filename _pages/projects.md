@@ -1,13 +1,17 @@
 ---
 layout: page
-title: projects
+title: Software
 permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
 horizontal: false
 ---
+
+Since I started coding during my PhD I wrote multiple pieces of codes. Some more useful than others and some better written than others. It is only during my postdoc time that I started to think that since 95% of my time in research is passed coding I might as well learn how to write it correctly and how to release them in the wild. And so I did! I learnt how to use github, how to write documentation, tests, how to package something etc...Some have also been published in journals!
+
+Here is the list of Software I have worked on. They are more or less in reversed chronological order. 
+
+PS: I have two github account [astrom-tom](https://github.com/astrom-tom) which I do not use anymore (and I am completely locked out of it) and the one I use daily [Romain-Thomas-Shef](https://github.com/Romain-Thomas-Shef).
 
 <!-- pages/projects.md -->
 <div class="projects">
