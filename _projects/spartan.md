@@ -12,11 +12,15 @@ related_publications: true
 This is one of the first big software I created for my research. It was a tool that was doing photometry and spectroscopy fitting for galaxy data. In short, you observe a galaxy with a telescope, and you try to estimate the physical parameters of this galaxy (such as age, metal content, star formation rate, dust content, etc...) by comparing it to a load of theoretical models. It took me quite some time to develop it.
 
 You can find a bit more details in the poster below, that was presented at the EAS conference in Prague. 
+
 <center>
-<object width="800" height="1150" type="application/pdf" data="../../assets/img/project/spartan/SPARTAN-prague-black.pdf?#zoom=10&scrollbar=0&toolbar=0&navpanes=0">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
-</object>
+<figure class="center">
+<img src="../../assets/img/project/spartan/SPARTAN-prague-black.png" alt="And example of SEDOBS fake galaxy" style="max-width: 100%; height: auto;">
+<figcaption color=white>EWASS poster</figcaption>
+</figure>
 </center>
+
+
 
 The documentation is public and hosted on [GitHub](https://astrom-tom.github.io/SPARTAN/build/html/index.html). SPARTAN has been published in Astronomy and Computing {% cite Thomas_2021ac %}}
 
@@ -24,7 +28,7 @@ To test SPARTAN and its accuracy I made a software that creates galaxy simulatio
 
 <center>
 <figure class="center">
-<img src="../../assets/img/project/spartan/sedobs.png" alt="And example of SEDOBS fake galaxy" style="width: 665px">
+<img src="../../assets/img/project/spartan/sedobs.png" alt="And example of SEDOBS fake galaxy" style="max-width: 100%; height: auto;">
 <figcaption color=white>An example of fake galaxy observation made by SEDOBS.</figcaption>
 </figure>
 </center>

@@ -16,7 +16,7 @@ We release a first version in 2025 and published it in the Journal of Open Sourc
 
 <center>
 <figure class="center">
-<img src="../../assets/img/project/ston/STONmainwindow.png" alt="Main window of STON" style="width: 665px">
+<img src="../../assets/img/project/ston/STONmainwindow.png" alt="Main window of STON" style="max-width: 100%; height: auto;">
 <figcaption color=white>Main window of STON.</figcaption>
 </figure>
 </center>

@@ -15,14 +15,14 @@ Photon is a GUI created to make simple 1D plot in python. It uses mainly matplot
 <div class='row justify-content-center text-center'>
     <div class='col-sm-6'>
         <figure class="center">
-            <img src="../../assets/img/project/photon/photon1.png" alt="Example" style="width: 305px">
+            <img src="../../assets/img/project/photon/photon1.png" alt="Example" style="max-width: 100%; height: auto;">
             <figcaption color=white>Example of plot</figcaption>
         </figure>
     </div>
     
     <div class='col-sm-6'>
         <figure class="center">
-            <img src="../../assets/img/project/photon/photon2.png" alt="Example" style="width: 305px">
+            <img src="../../assets/img/project/photon/photon2.png" alt="Example" style="max-width: 100%; height: auto;">
             <figcaption color=white>Example of plot</figcaption>
         </figure>
     </div>
@@ -34,7 +34,7 @@ The interface looks like this:
 
 <center>
     <figure class="center">
-        <img src="../../assets/img/project/photon/photon3.png" alt="Interface of Photon" style="width: 665px">
+        <img src="../../assets/img/project/photon/photon3.png" alt="Interface of Photon" style="max-width: 100%; height: auto;">
         <figcaption color=white>Interface of photon.</figcaption>
     </figure>
 </center>

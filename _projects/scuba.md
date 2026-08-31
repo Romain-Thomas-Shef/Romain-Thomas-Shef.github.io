@@ -20,7 +20,7 @@ While I am not working at the VLT anymore, I know that SCUBA is still actively d
 
 <center>
 <figure class="center">
-<img src="../../assets/img/project/scuba/logo_scuba.png" alt="SCUBA logo" style="width: 45px; min-width: 330px;">
+<img src="../../assets/img/project/scuba/logo_scuba.png" alt="SCUBA logo" style="max-width: 100%; height: auto;">
 <figcaption color=white>Logo of SCUBA.</figcaption>
 </figure>
 </center>
